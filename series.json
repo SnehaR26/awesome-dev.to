@@ -124,6 +124,11 @@
 			"Series-Title" : "Become a Fullstack JavaScript Developer",
 			"link" : "https://dev.to/hoangbkit/become-a-fullstack-javascript-developer-part-1-the-motivation-1h4c",
 			"author" : "Hoang Nguyen"
+		},
+		{
+			"Series-Title" : "Design Systems",
+			"link" : "https://dev.to/emmawedekind/design-systems-part-i-foundations-45hd",
+			"author" : "Emma Wedekind"
 		}
 	]
 }
